@@ -1,0 +1,22 @@
+{
+  "name": "cartexian",
+  "version": "1.0.0",
+  "description": "cartesian geometry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j0t3x/cartexian.git"
+  },
+  "author": "tex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j0t3x/cartexian/issues"
+  },
+  "homepage": "https://github.com/j0t3x/cartexian#readme",
+  "dependencies": {
+    "mathjs": "^3.20.1"
+  }
+}
